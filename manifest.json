@@ -1,8 +1,8 @@
 {
-  "name": "Scaffold-Eth App",
-  "description": "A Scaffold-Eth App",
-  "iconPath": "logo192.png",
-  "short_name": "🏗 Scaffold-Eth App",
+  "name": "YAAF-Miner App",
+  "description": "YAAF-Miner App",
+  "iconPath": "logoyaaf192.png",
+  "short_name": "YAAF-Miner App",
   "start_url": ".",
   "icons": [
     {
@@ -11,12 +11,12 @@
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
+      "src": "logoyaaf192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
+      "src": "logoyaaf512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
